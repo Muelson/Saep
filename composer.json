@@ -1,0 +1,18 @@
+{
+    "name": "49639160881/sistemaescolar",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "49639160881\\Sistemaescolar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Samuel"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "twig/twig": "^3.10"
+    }
+}
